@@ -5,3 +5,7 @@ body {
   padding-top: 3%;
 }
 
+li {
+  text-indent: 25px;
+  list-style-type: none;
+}
