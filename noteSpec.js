@@ -3,18 +3,21 @@ function testNoteInstantiateWithPlaceHolder() {
   assert.isEq(note.text, note.PLACEHOLDER);
 };
 
-testNoteInstantiateWithPlaceHolder();
+// testNoteInstantiateWithPlaceHolder();
 
-function testGetText() {
-  var note = new Note();
-  assert.isTrue(note.getText() === note.PLACEHOLDER);
-};
+// function testGetText() {
+//   var note = new Note();
+//   assert.isTrue(note.getText() === note.PLACEHOLDER);
+// };
 
-testGetText();
 
-function testFail() {
+it('is a failing test', function(){
   var note = new Note();
   assert.isTrue(note.getText() === "baboon");
-};
+});
 
-testFail();
+it('gets text', function(){
+  var note = new Note();
+  assert.isTrue(note.getText() === note.PLACEHOLDER);
+})
+
