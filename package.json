@@ -1,0 +1,28 @@
+{
+  "name": "dusty",
+  "version": "1.0.0",
+  "description": "A featherweight JavaScript testing framework",
+  "main": "SpecRunner.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazwhale/dusty.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "testing",
+    "TDD",
+    "testing",
+    "framework",
+    "dusty",
+    "pink"
+  ],
+  "author": "Eugenia Guerrero & Naz Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazwhale/dusty/issues"
+  },
+  "homepage": "https://github.com/nazwhale/dusty#readme"
+}
