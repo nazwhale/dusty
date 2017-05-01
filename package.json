@@ -1,5 +1,5 @@
 {
-  "name": "dusty",
+  "name": "dusty-testing",
   "version": "1.0.0",
   "description": "A featherweight JavaScript testing framework",
   "main": "SpecRunner.html",
