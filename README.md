@@ -1,3 +1,3 @@
 # dusty
 
-A JavaScript testing framework
+A featherweight testing framework for JavaScript.
